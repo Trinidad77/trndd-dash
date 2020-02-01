@@ -1,0 +1,30 @@
+<head>
+<title>Luis A Trinidad</title>
+<style>
+  Body {
+    text-align: center;
+    background:
+    backgournd-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+  }
+  p {
+    font-size: 22px;
+  }
+  input {
+    border: 0:
+    padding: 10px;
+    font-size: 18px;
+  }
+  input[type="submit"] {
+    background: red;
+    color: white;
+  }
+  </style>
+</head>
+<body>
+   <p>Hi! I'm Luis Trinidad, a Rhode Island based Ramp Agent.</p>
+   <input type="email" placeholder="Your email">
+   <input type= "submit">
+</body>   
